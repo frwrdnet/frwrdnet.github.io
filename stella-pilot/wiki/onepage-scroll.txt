@@ -1,2 +1,0 @@
-[h2]one-page scroll proj[/h2]
-[p]Content goes here...[/p]

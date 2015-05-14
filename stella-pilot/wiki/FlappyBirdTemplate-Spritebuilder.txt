@@ -1,2 +1,0 @@
-[h2]Flappy Bird Template[/h2]
-[p]Content goes here...[/p]

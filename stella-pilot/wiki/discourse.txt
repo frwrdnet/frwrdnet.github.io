@@ -1,2 +1,0 @@
-[h2]Discourse[/h2]
-[p]Content goes here...[/p]

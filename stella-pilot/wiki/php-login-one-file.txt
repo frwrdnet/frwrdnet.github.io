@@ -1,2 +1,0 @@
-[h2]PHP Login one file proj[/h2]
-[p]Content goes here...[/p]
